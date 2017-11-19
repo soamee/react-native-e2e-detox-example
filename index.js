@@ -5,7 +5,7 @@ import AppViewContainer from './src/modules/AppViewContainer';
 import React, {Component} from 'react';
 import {AppRegistry} from 'react-native';
 
-class PepperoniAppTemplate extends Component {
+class react-native-e2e-test-detox extends Component {
   render() {
     return (
       <Provider store={store}>
@@ -15,4 +15,4 @@ class PepperoniAppTemplate extends Component {
   }
 }
 
-AppRegistry.registerComponent('PepperoniAppTemplate', () => PepperoniAppTemplate);
+AppRegistry.registerComponent('react-native-e2e-test-detox', () => react-native-e2e-test-detox);

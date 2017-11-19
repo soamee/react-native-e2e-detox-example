@@ -98,7 +98,7 @@ android {
     buildToolsVersion "23.0.1"
 
     defaultConfig {
-        applicationId "com.pepperoniapptemplate"
+        applicationId "com.react-native-e2e-test-detox"
         minSdkVersion 16
         targetSdkVersion 22
         versionCode 1

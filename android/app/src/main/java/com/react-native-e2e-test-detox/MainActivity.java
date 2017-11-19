@@ -1,4 +1,4 @@
-package com.pepperoniapptemplate;
+package com.react-native-e2e-test-detox;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
      */
     @Override
     protected String getMainComponentName() {
-        return "PepperoniAppTemplate";
+        return "react-native-e2e-test-detox";
     }
 }

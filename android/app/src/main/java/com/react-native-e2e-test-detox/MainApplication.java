@@ -1,4 +1,4 @@
-package com.pepperoniapptemplate;
+package com.react-native-e2e-test-detox;
 
 import android.app.Application;
 
