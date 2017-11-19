@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1511103071612" clover="3.2.0">
+  <project timestamp="1511103071612" name="All files">
+    <metrics statements="183" coveredstatements="121" conditionals="73" coveredconditionals="43" methods="72" coveredmethods="39" elements="328" coveredelements="203" complexity="0" loc="183" ncloc="183" packages="10" files="21" classes="21">
+      <package name="components">
+        <metrics statements="10" coveredstatements="1" conditionals="4" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <file name="DeveloperMenu.ios.js" path="/Users/javier/Development/react-native-e2e-test-detox/src/components/DeveloperMenu.ios.js">
+          <metrics statements="10" coveredstatements="1" conditionals="4" coveredconditionals="0" methods="3" coveredmethods="0"/>
+          <line num="19" count="0" type="stmt"/>
+          <line num="25" count="0" type="stmt"/>
+          <line num="26" count="0" type="stmt"/>
+          <line num="27" count="0" type="stmt"/>
+          <line num="28" count="0" type="stmt"/>
+          <line num="32" count="0" type="stmt"/>
+          <line num="42" count="0" type="stmt"/>
+          <line num="43" count="0" type="stmt"/>
+          <line num="46" count="0" type="stmt"/>
+          <line num="55" count="1" type="stmt"/>
+        </file>
+      </package>
+      <package name="modules">
+        <metrics statements="11" coveredstatements="9" conditionals="6" coveredconditionals="5" methods="4" coveredmethods="3"/>
+        <file name="AppView.ios.js" path="/Users/javier/Development/react-native-e2e-test-detox/src/modules/AppView.ios.js">
+          <metrics statements="11" coveredstatements="9" conditionals="6" coveredconditionals="5" methods="4" coveredmethods="3"/>
+          <line num="19" count="2" type="stmt"/>
+          <line num="21" count="2" type="stmt"/>
+          <line num="23" count="2" type="stmt"/>
+          <line num="24" count="0" type="stmt"/>
+          <line num="26" count="2" type="stmt"/>
+          <line num="29" count="2" type="stmt"/>
+          <line num="30" count="0" type="stmt"/>
+          <line num="36" count="2" type="stmt"/>
+          <line num="37" count="1" type="stmt"/>
+          <line num="44" count="1" type="stmt"/>
+          <line num="54" count="1" type="stmt"/>
+        </file>
+      </package>
+      <package name="modules.colors">
+        <metrics statements="9" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="0"/>
+        <file name="ColorView.js" path="/Users/javier/Development/react-native-e2e-test-detox/src/modules/colors/ColorView.js">
+          <metrics statements="8" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="0"/>
+          <line num="11" count="3" type="stmt"/>
+          <line num="23" count="0" type="stmt"/>
+          <line num="37" count="0" type="stmt"/>
+          <line num="38" count="0" type="stmt"/>
+          <line num="44" count="0" type="stmt"/>
+          <line num="48" count="0" type="stmt"/>
+          <line num="49" count="0" type="stmt"/>
+          <line num="57" count="3" type="stmt"/>
+        </file>
+        <file name="ColorViewContainer.js" path="/Users/javier/Development/react-native-e2e-test-detox/src/modules/colors/ColorViewContainer.js">
+          <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="9" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="modules.counter">
+        <metrics statements="29" coveredstatements="17" conditionals="11" coveredconditionals="6" methods="15" coveredmethods="6"/>
+        <file name="CounterState.js" path="/Users/javier/Development/react-native-e2e-test-detox/src/modules/counter/CounterState.js">
+          <metrics statements="15" coveredstatements="15" conditionals="7" coveredconditionals="6" methods="6" coveredmethods="6"/>
+          <line num="6" count="3" type="stmt"/>
+          <line num="12" count="3" type="stmt"/>
+          <line num="13" count="3" type="stmt"/>
+          <line num="14" count="3" type="stmt"/>
+          <line num="15" count="3" type="stmt"/>
+          <line num="19" count="3" type="stmt"/>
+          <line num="23" count="1" type="stmt"/>
+          <line num="27" count="1" type="stmt"/>
+          <line num="33" count="1" type="stmt"/>
+          <line num="41" count="10" type="stmt"/>
+          <line num="43" count="3" type="stmt"/>
+          <line num="46" count="1" type="stmt"/>
+          <line num="49" count="1" type="stmt"/>
+          <line num="55" count="1" type="stmt"/>
+          <line num="60" count="4" type="stmt"/>
+        </file>
+        <file name="CounterView.js" path="/Users/javier/Development/react-native-e2e-test-detox/src/modules/counter/CounterView.js">
+          <metrics statements="12" coveredstatements="2" conditionals="4" coveredconditionals="0" methods="7" coveredmethods="0"/>
+          <line num="19" count="0" type="stmt"/>
+          <line num="37" count="0" type="stmt"/>
+          <line num="41" count="0" type="stmt"/>
+          <line num="45" count="0" type="stmt"/>
+          <line num="49" count="0" type="stmt"/>
+          <line num="53" count="0" type="stmt"/>
+          <line num="54" count="0" type="stmt"/>
+          <line num="57" count="0" type="stmt"/>
+          <line num="75" count="0" type="stmt"/>
+          <line num="79" count="0" type="stmt"/>
+          <line num="123" count="3" type="stmt"/>
+          <line num="130" count="3" type="stmt"/>
+        </file>
+        <file name="CounterViewContainer.js" path="/Users/javier/Development/react-native-e2e-test-detox/src/modules/counter/CounterViewContainer.js">
+          <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+          <line num="8" count="0" type="stmt"/>
+          <line num="13" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="modules.navigator">
+        <metrics statements="12" coveredstatements="9" conditionals="4" coveredconditionals="3" methods="3" coveredmethods="1"/>
+        <file name="Navigator.js" path="/Users/javier/Development/react-native-e2e-test-detox/src/modules/navigator/Navigator.js">
+          <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+          <line num="7" count="3" type="stmt"/>
+          <line num="8" count="3" type="stmt"/>
+          <line num="11" count="3" type="stmt"/>
+          <line num="26" count="3" type="stmt"/>
+          <line num="36" count="3" type="stmt"/>
+        </file>
+        <file name="NavigatorState.js" path="/Users/javier/Development/react-native-e2e-test-detox/src/modules/navigator/NavigatorState.js">
+          <metrics statements="5" coveredstatements="4" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
+          <line num="9" count="10" type="stmt"/>
+          <line num="10" count="3" type="stmt"/>
+          <line num="14" count="7" type="stmt"/>
+          <line num="15" count="0" type="stmt"/>
+          <line num="18" count="7" type="stmt"/>
+        </file>
+        <file name="NavigatorView.js" path="/Users/javier/Development/react-native-e2e-test-detox/src/modules/navigator/NavigatorView.js">
+          <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="22" count="0" type="stmt"/>
+        </file>
+        <file name="NavigatorViewContainer.js" path="/Users/javier/Development/react-native-e2e-test-detox/src/modules/navigator/NavigatorViewContainer.js">
+          <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="5" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="modules.session">
+        <metrics statements="8" coveredstatements="8" conditionals="5" coveredconditionals="3" methods="3" coveredmethods="3"/>
+        <file name="SessionState.js" path="/Users/javier/Development/react-native-e2e-test-detox/src/modules/session/SessionState.js">
+          <metrics statements="8" coveredstatements="8" conditionals="5" coveredconditionals="3" methods="3" coveredmethods="3"/>
+          <line num="3" count="3" type="stmt"/>
+          <line num="4" count="3" type="stmt"/>
+          <line num="6" count="3" type="stmt"/>
+          <line num="9" count="1" type="stmt"/>
+          <line num="16" count="2" type="stmt"/>
+          <line num="23" count="10" type="stmt"/>
+          <line num="26" count="1" type="stmt"/>
+          <line num="29" count="9" type="stmt"/>
+        </file>
+      </package>
+      <package name="redux">
+        <metrics statements="11" coveredstatements="11" conditionals="10" coveredconditionals="8" methods="3" coveredmethods="3"/>
+        <file name="middleware.js" path="/Users/javier/Development/react-native-e2e-test-detox/src/redux/middleware.js">
+          <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        </file>
+        <file name="reducer.js" path="/Users/javier/Development/react-native-e2e-test-detox/src/redux/reducer.js">
+          <metrics statements="7" coveredstatements="7" conditionals="6" coveredconditionals="5" methods="3" coveredmethods="3"/>
+          <line num="8" count="3" type="stmt"/>
+          <line num="22" count="3" type="stmt"/>
+          <line num="23" count="30" type="stmt"/>
+          <line num="24" count="30" type="stmt"/>
+          <line num="26" count="3" type="stmt"/>
+          <line num="34" count="10" type="stmt"/>
+          <line num="39" count="10" type="stmt"/>
+        </file>
+        <file name="store.js" path="/Users/javier/Development/react-native-e2e-test-detox/src/redux/store.js">
+          <metrics statements="4" coveredstatements="4" conditionals="4" coveredconditionals="3" methods="0" coveredmethods="0"/>
+          <line num="6" count="1" type="stmt"/>
+          <line num="16" count="1" type="stmt"/>
+          <line num="23" count="1" type="stmt"/>
+          <line num="26" count="1" type="stmt"/>
+        </file>
+      </package>
+      <package name="redux.middleware">
+        <metrics statements="3" coveredstatements="0" conditionals="5" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <file name="loggerMiddleware.js" path="/Users/javier/Development/react-native-e2e-test-detox/src/redux/middleware/loggerMiddleware.js">
+          <metrics statements="3" coveredstatements="0" conditionals="5" coveredconditionals="0" methods="3" coveredmethods="0"/>
+          <line num="8" count="0" type="stmt"/>
+          <line num="11" count="0" type="stmt"/>
+          <line num="15" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="services">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <file name="randomNumberService.js" path="/Users/javier/Development/react-native-e2e-test-detox/src/services/randomNumberService.js">
+          <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+          <line num="3" count="1" type="stmt"/>
+          <line num="4" count="1" type="stmt"/>
+        </file>
+      </package>
+      <package name="utils">
+        <metrics statements="88" coveredstatements="62" conditionals="28" coveredconditionals="18" methods="29" coveredmethods="20"/>
+        <file name="api.js" path="/Users/javier/Development/react-native-e2e-test-detox/src/utils/api.js">
+          <metrics statements="59" coveredstatements="48" conditionals="22" coveredconditionals="15" methods="16" coveredmethods="14"/>
+          <line num="6" count="1" type="stmt"/>
+          <line num="8" count="1" type="stmt"/>
+          <line num="13" count="1" type="stmt"/>
+          <line num="22" count="7" type="stmt"/>
+          <line num="33" count="5" type="stmt"/>
+          <line num="44" count="5" type="stmt"/>
+          <line num="54" count="4" type="stmt"/>
+          <line num="65" count="21" type="stmt"/>
+          <line num="66" count="21" type="stmt"/>
+          <line num="67" count="21" type="stmt"/>
+          <line num="73" count="0" type="stmt"/>
+          <line num="74" count="0" type="stmt"/>
+          <line num="76" count="0" type="stmt"/>
+          <line num="84" count="23" type="stmt"/>
+          <line num="85" count="23" type="stmt"/>
+          <line num="95" count="21" type="stmt"/>
+          <line num="96" count="21" type="stmt"/>
+          <line num="97" count="21" type="stmt"/>
+          <line num="98" count="21" type="stmt"/>
+          <line num="99" count="21" type="stmt"/>
+          <line num="103" count="21" type="stmt"/>
+          <line num="105" count="0" type="stmt"/>
+          <line num="113" count="21" type="stmt"/>
+          <line num="114" count="21" type="stmt"/>
+          <line num="118" count="21" type="stmt"/>
+          <line num="119" count="11" type="stmt"/>
+          <line num="120" count="11" type="stmt"/>
+          <line num="123" count="11" type="stmt"/>
+          <line num="124" count="11" type="stmt"/>
+          <line num="126" count="11" type="stmt"/>
+          <line num="130" count="10" type="stmt"/>
+          <line num="131" count="10" type="stmt"/>
+          <line num="137" count="11" type="stmt"/>
+          <line num="142" count="21" type="stmt"/>
+          <line num="146" count="21" type="stmt"/>
+          <line num="147" count="21" type="stmt"/>
+          <line num="150" count="0" type="stmt"/>
+          <line num="156" count="11" type="stmt"/>
+          <line num="157" count="11" type="stmt"/>
+          <line num="158" count="11" type="stmt"/>
+          <line num="159" count="7" type="stmt"/>
+          <line num="163" count="4" type="stmt"/>
+          <line num="164" count="4" type="stmt"/>
+          <line num="165" count="4" type="stmt"/>
+          <line num="169" count="0" type="stmt"/>
+          <line num="173" count="0" type="stmt"/>
+          <line num="181" count="21" type="stmt"/>
+          <line num="182" count="21" type="stmt"/>
+          <line num="183" count="21" type="stmt"/>
+          <line num="185" count="21" type="stmt"/>
+          <line num="186" count="21" type="stmt"/>
+          <line num="193" count="21" type="stmt"/>
+          <line num="194" count="21" type="stmt"/>
+          <line num="195" count="10" type="stmt"/>
+          <line num="197" count="11" type="stmt"/>
+          <line num="205" count="0" type="stmt"/>
+          <line num="206" count="0" type="stmt"/>
+          <line num="207" count="0" type="stmt"/>
+          <line num="210" count="0" type="stmt"/>
+        </file>
+        <file name="authentication.js" path="/Users/javier/Development/react-native-e2e-test-detox/src/utils/authentication.js">
+          <metrics statements="4" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="1"/>
+          <line num="3" count="1" type="stmt"/>
+          <line num="6" count="21" type="stmt"/>
+          <line num="10" count="0" type="stmt"/>
+          <line num="14" count="0" type="stmt"/>
+        </file>
+        <file name="configuration.js" path="/Users/javier/Development/react-native-e2e-test-detox/src/utils/configuration.js">
+          <metrics statements="7" coveredstatements="5" conditionals="2" coveredconditionals="1" methods="4" coveredmethods="3"/>
+          <line num="3" count="1" type="stmt"/>
+          <line num="6" count="23" type="stmt"/>
+          <line num="10" count="0" type="stmt"/>
+          <line num="14" count="23" type="stmt"/>
+          <line num="18" count="23" type="stmt"/>
+          <line num="19" count="0" type="stmt"/>
+          <line num="22" count="23" type="stmt"/>
+        </file>
+        <file name="snapshot.js" path="/Users/javier/Development/react-native-e2e-test-detox/src/utils/snapshot.js">
+          <metrics statements="18" coveredstatements="7" conditionals="4" coveredconditionals="2" methods="6" coveredmethods="2"/>
+          <line num="3" count="1" type="stmt"/>
+          <line num="6" count="2" type="stmt"/>
+          <line num="7" count="2" type="stmt"/>
+          <line num="8" count="0" type="stmt"/>
+          <line num="11" count="2" type="stmt"/>
+          <line num="15" count="0" type="stmt"/>
+          <line num="19" count="0" type="stmt"/>
+          <line num="28" count="0" type="stmt"/>
+          <line num="29" count="0" type="stmt"/>
+          <line num="31" count="0" type="stmt"/>
+          <line num="41" count="2" type="stmt"/>
+          <line num="42" count="2" type="stmt"/>
+          <line num="43" count="2" type="stmt"/>
+          <line num="47" count="0" type="stmt"/>
+          <line num="48" count="0" type="stmt"/>
+          <line num="53" count="0" type="stmt"/>
+          <line num="54" count="0" type="stmt"/>
+          <line num="56" count="0" type="stmt"/>
+        </file>
+      </package>
+    </metrics>
+  </project>
+</coverage>
