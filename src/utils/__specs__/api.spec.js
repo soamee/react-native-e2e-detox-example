@@ -67,6 +67,7 @@ describe('API', () => {
         expect(error.code).toBe(400);
         expect(error.message).toBe('You did bad.');
         expect(fetch.called()).toBe(true);
+        expect(false).toBe(true);
       });
 
       it('should throw when server returns a HTTP 5xx error', async () => {
